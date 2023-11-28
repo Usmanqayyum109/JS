@@ -1,0 +1,6 @@
+1: Syntax error 
+2: Refrence error 
+3:Type error 
+4:Undefined 
+5:NaN 
+6:Null 
