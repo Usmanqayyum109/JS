@@ -42,9 +42,17 @@ const value = Studenst.sort((a, b) => {
 // Add a new key-value pair to the specified element
 // value[0].city = "Lahore";
 
+// Remove a specific key from specified element
+// delete value[0].age;
+
 // Add a new key-value pair to all elements
 // value.forEach((students) => {
 //   students["city"] = "Islamabad";
+// });
+
+// Remove a specific key from all elements
+// value.forEach((students) => {
+//   delete students["city"];
 // });
 
 console.log(value);
