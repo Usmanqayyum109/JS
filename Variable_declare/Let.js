@@ -17,3 +17,5 @@ function print() {
   console.log("anotherLargeNumer", anotherLargeNumer); // RefrenceError
 }
 print();
+
+// 2: Redeclartion and reassigning
