@@ -4,3 +4,9 @@
 4:Undefined 
 5:NaN 
 6:Null 
+7:array break
+8:Math Object 
+9:Date Object
+10: local scope VS block scope
+
+
