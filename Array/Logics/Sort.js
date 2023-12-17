@@ -1,5 +1,3 @@
-// Certainly! Here's a prompt for you:
-
 // Logic 1:
 // Write a JavaScript function that takes an array of objects representing students, where each object has a name and score property. The function should sort the array of students based on their scores in descending order and then display the sorted array.
 
